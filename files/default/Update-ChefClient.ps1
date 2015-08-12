@@ -28,5 +28,5 @@ if(Test-Path $path){
 $client = new-object System.Net.WebClient
 $client.DownloadFile("$url", "$path")
 
-#Write-Host "Executing installer"
+Write-Host "Executing installer"
 Start-Process -FilePath "msiexec.exe" -ArgumentList "/qb /i $path"
