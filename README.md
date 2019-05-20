@@ -1,5 +1,6 @@
 OmnibusUpdater
 ==============
+**This repo has been archived, if you have any questions or need this repo unarchived please email Kyle Shananfelt, Mary Panza, and Lane McLaughlin or the current Development Lead.**
 
 Update your omnibus! This cookbook can install the omnibus
 Chef package into your system if you are currently running
